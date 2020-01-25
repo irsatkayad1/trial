@@ -1,0 +1,1 @@
+git.exe clone https://tfs/tfs/VK/GIT.BOA.DWHModules_gitGIT.BOA.DWHModules
