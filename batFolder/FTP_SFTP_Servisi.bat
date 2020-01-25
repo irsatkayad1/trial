@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitFTP_SFTP_Servisi
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/FTP_SFTP_Servisi

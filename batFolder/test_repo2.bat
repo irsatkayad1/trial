@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gittest_repo2
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/test_repo2

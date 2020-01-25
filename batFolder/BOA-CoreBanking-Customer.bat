@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.CoreBanking.Customer
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.CoreBanking.Customer

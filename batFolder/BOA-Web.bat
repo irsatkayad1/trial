@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA_gitBOA.Web
+git.exe clone https://tfs/tfs/VK/GIT.BOA/_git/BOA.Web

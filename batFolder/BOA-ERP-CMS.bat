@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.ERP.CMS
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.ERP.CMS

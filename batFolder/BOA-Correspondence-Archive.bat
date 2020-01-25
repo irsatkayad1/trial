@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.Correspondence.Archive
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.Correspondence.Archive

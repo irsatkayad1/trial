@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.DocumentManagement.DocumentViewer
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.DocumentManagement.DocumentViewer

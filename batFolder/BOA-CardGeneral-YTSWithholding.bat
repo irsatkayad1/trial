@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.CardGeneral.YTSWithholding
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.CardGeneral.YTSWithholding

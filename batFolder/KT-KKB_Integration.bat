@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitKT.KKB_Integration
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/KT.KKB_Integration

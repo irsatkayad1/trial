@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA_gitXtm
+git.exe clone https://tfs/tfs/VK/GIT.BOA/_git/Xtm

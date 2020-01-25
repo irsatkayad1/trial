@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA_gitVKA.Microservices
+git.exe clone https://tfs/tfs/VK/GIT.BOA/_git/VKA.Microservices

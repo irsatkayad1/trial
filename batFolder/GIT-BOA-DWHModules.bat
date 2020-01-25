@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.DWHModules_gitGIT.BOA.DWHModules
+git.exe clone https://tfs/tfs/VK/GIT.BOA.DWHModules/_git/GIT.BOA.DWHModules

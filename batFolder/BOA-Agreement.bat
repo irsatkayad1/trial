@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.Agreement
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.Agreement

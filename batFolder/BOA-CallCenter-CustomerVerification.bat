@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.CallCenter.CustomerVerification
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.CallCenter.CustomerVerification

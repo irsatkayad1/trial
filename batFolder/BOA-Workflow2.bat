@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.Workflow2
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.Workflow2

@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.Instant.DataPreparationService
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.Instant.DataPreparationService

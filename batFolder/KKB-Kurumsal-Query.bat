@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitKKB.Kurumsal.Query
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/KKB.Kurumsal.Query

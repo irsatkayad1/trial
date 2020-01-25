@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.Calendar.CalendarSelecting
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.Calendar.CalendarSelecting

@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA_gittestjenkins
+git.exe clone https://tfs/tfs/VK/GIT.BOA/_git/testjenkins

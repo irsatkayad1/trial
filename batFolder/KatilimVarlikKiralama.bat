@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitKatilimVarlikKiralama
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/KatilimVarlikKiralama

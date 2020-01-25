@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Loans_gitBOA.Loans.CampaignManagement
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Loans/_git/BOA.Loans.CampaignManagement

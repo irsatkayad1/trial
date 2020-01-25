@@ -1,1 +1,0 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Kernel_gitGIT.BOA.Kernel

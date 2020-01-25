@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.Commission.CommissionTransactions
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.Commission.CommissionTransactions

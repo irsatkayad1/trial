@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Kernel_gitBOA.Kernel.Budget
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Kernel/_git/BOA.Kernel.Budget

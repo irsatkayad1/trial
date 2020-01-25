@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.RuleEngine
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.RuleEngine

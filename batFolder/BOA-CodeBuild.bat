@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.CodeBuild
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.CodeBuild

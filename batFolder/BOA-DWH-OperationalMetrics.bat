@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.DWHModules_gitBOA.DWH.OperationalMetrics
+git.exe clone https://tfs/tfs/VK/GIT.BOA.DWHModules/_git/BOA.DWH.OperationalMetrics

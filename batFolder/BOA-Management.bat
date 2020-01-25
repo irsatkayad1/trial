@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules_gitBOA.Management
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Modules/_git/BOA.Management

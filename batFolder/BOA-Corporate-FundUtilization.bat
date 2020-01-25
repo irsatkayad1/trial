@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.Corporate.FundUtilization
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.Corporate.FundUtilization

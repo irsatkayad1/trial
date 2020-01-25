@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.PaymentSystems.Donation
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.PaymentSystems.Donation

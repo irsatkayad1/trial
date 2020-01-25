@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.InternetBanking.SalaryAccount
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.InternetBanking.SalaryAccount

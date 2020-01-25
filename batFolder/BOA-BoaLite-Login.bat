@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.BoaLite.Login
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.BoaLite.Login

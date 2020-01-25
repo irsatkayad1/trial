@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules_gitBOA.PaymentSystems.KKBPackage
+git.exe clone https://tfs/tfs/VK/GIT.BOA.BusinessModules/_git/BOA.PaymentSystems.KKBPackage

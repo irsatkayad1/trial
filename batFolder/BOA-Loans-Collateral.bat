@@ -1,1 +1,1 @@
-git.exe clone https://tfs/tfs/VK/GIT.BOA.Loans_gitBOA.Loans.Collateral
+git.exe clone https://tfs/tfs/VK/GIT.BOA.Loans/_git/BOA.Loans.Collateral
